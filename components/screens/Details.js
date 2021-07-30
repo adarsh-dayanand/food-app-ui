@@ -5,8 +5,6 @@ import {
   StyleSheet,
   SafeAreaView,
   TouchableOpacity,
-  Image,
-  FlatList,
 } from 'react-native';
 import Feather from 'react-native-vector-icons/Feather';
 import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityIcons';
@@ -17,7 +15,6 @@ import PizzaIngredients from '../widgets/PizzaIngredients';
 export default Details = ({ route, navigation }) => {
   const { item } = route.params;
 
-  
   return (
     <View style={styles.container}>
       {/* Header */}
