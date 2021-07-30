@@ -2,9 +2,9 @@
 This is an Food Ordering UI application developed using React Native
 
 # App Screenshots
-<img height="700" src="https://github.com/adarsh-dayanand/food-app-ui/blob/master/screenshots/one.png">
-<img height="700" src="https://github.com/adarsh-dayanand/food-app-ui/blob/master/screenshots/two.png">
-<img height="700" src="https://github.com/adarsh-dayanand/food-app-ui/blob/master/screenshots/three.png">
+<code><img height="700" src="https://github.com/adarsh-dayanand/food-app-ui/blob/master/screenshots/one.png"></code>
+<code><img height="700" src="https://github.com/adarsh-dayanand/food-app-ui/blob/master/screenshots/two.png"></code>
+<code><img height="700" src="https://github.com/adarsh-dayanand/food-app-ui/blob/master/screenshots/three.png"></code>
 
 <div align="center">
 
