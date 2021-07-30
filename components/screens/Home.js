@@ -24,8 +24,8 @@ export default Home = ({navigation}) => {
                         <Feather name="menu" size={24} color={colors.textDark} />
                     </View>
                 </SafeAreaView>
-                {/* Title */}
 
+                {/* Title */}
                 <View style={styles.title}>
                     <Text style={styles.mainTitle}>Food</Text>
                     <Text style={styles.subTitle}>Delivery</Text>
